@@ -1,0 +1,6 @@
+{
+  "name": "LivSo Scalp Care | Dermatologist-Formulated Hair Care",
+  "description": "LivSo is dermatologist-formulated scalp care created by Dr. Shari Hicks-Graham to relieve dry, itchy scalp while deeply moisturizing curly, kinky, and wavy textured hair.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
